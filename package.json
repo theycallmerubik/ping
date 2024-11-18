@@ -1,12 +1,12 @@
 {
   "name": "js---pingingwebsites",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "ping.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ping.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "rubik",
   "license": "ISC",
   "description": "",
   "dependencies": {
