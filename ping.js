@@ -1,5 +1,7 @@
 const axios = require('axios');
 
+const port = process.env.PORT || 10000;
+
 // The URL of your bot on Glitch
 const BOT_URL = 'https://reservreminder.glitch.me';
 
