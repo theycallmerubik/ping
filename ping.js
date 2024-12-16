@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 // The URL of your bot on Glitch
-const BOT_URL = 'https://reservreminder.glitch.me';
+const BOT_URL = 'https://reservreminderv2.glitch.me/';
 
 // Interval to ping the bot (in milliseconds)
 const PING_INTERVAL = 5 * 60 * 1000; // Every 5 minutes
